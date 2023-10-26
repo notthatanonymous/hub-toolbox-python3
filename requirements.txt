@@ -3,6 +3,6 @@ scipy
 pandas
 scikit-learn<0.21
 joblib
-coveralls
+#coveralls
 falconn
 nmslib
